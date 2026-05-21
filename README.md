@@ -35,8 +35,4 @@ Exploración sistemática del comportamiento de Modelos de Lenguaje Grandes (LLM
 ### 4. Parameter-Efficient Fine-Tuning (PEFT)
 Optimización de Modelos de Lenguaje Pequeños (SLMs) como **Gemma** y **Llama** para tareas específicas de *Question Answering* dentro de los dominios del dataset. Se aplicaron técnicas de cuantización y ajuste de bajo rango (**LoRA / QLoRA**) para maximizar el rendimiento reduciendo drásticamente el coste computacional y de memoria.
 
-## 🚀 Instrucciones de Ejecución
 
-1. Clona este repositorio:
-   ```bash
-   git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git)
